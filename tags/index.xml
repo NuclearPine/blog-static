@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Jackson Pyrah</copyright>
-    <lastBuildDate>Thu, 26 Sep 2024 19:45:44 -0600</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 21:53:18 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible</title>
+      <link>/tags/ansible/</link>
+      <pubDate>Tue, 31 Dec 2024 21:53:18 -0700</pubDate>
+      
+      <guid>/tags/ansible/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
     <item>
       <title>Gaming</title>
       <link>/tags/gaming/</link>
